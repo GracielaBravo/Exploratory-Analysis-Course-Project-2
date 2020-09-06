@@ -63,7 +63,7 @@ You must address the following questions and tasks in your exploratory analysis.
   
 **3. Of the four types of sources indicated by the `type` (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City? Which have seen increases in emissions from 1999–2008? Use the ggplot2 plotting system to make a plot answer this question.**
   
-  **Answer**: Emissions from NON-ROAD, NON-POINT, and ON-ROAD sources all significantly decreased from 1999 to 2008. The only source that increased slightly was from the POINT source.
+  **Answer**: Emissions from NON-ROAD, NON-POINT, and ON-ROAD sources all decreased from 1999 to 2008. The only source that increased slightly was from the POINT source.
   
 ![plot of plot3.png](./plot3.png)
   
