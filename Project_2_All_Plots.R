@@ -25,7 +25,7 @@ BarPlot = barplot(TotalEmissions$Emissions, names.arg = TotalEmissions$year,
         xlab = "Years", ylab = expression("Total PM"[2.5]*" emissions (Tons)"),
         ylim=c(0,8000000),
         col = c("red", "blue", "green", "yellow"),
-        main= expression('Total PM'[2.5]*' emissions at 1990, 2002, 2005 and 2008'))
+        main= expression('Total PM'[2.5]*' emissions from 1999 to 2008'))
 ##Add text
 text(x = BarPlot, y = (TotalEmissions$Emissions), labels=round(TotalEmissions$Emissions,0),cex=1, pos = 3)
 
