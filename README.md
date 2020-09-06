@@ -81,7 +81,7 @@ You must address the following questions and tasks in your exploratory analysis.
   
 **6. Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (`fips == "06037"`). Which city has seen greater changes over time in motor vehicle emissions?**
   
-  **Answer**: Emissions related to motor vehicle sources in Baltimore City vs Los Angeles have considerable differences. LA emissions greatly exceed Baltimore City emissions. LA hasn't cut motor vehicle emissions at all from 1999 to 2008, while Baltimore City cut emissions by more than half.
+  **Answer**: Emissions related to motor vehicle sources in Baltimore City vs Los Angeles have considerable differences. LA emissions greatly exceed Baltimore City emissions. LA hasn't cut motor vehicle emissions at all from 1999 to 2008, while Baltimore City cut emissions by 65%.
   
   ![plot of plot6.png](./plot6.png)
 
